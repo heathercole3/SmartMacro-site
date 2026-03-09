@@ -1,0 +1,38 @@
+index.html
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>SmartMacro Legal</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+max-width: 700px;
+margin: auto;
+padding: 40px;
+line-height: 1.6;
+}
+h1 {
+color: #333;
+}
+a {
+display: block;
+margin: 10px 0;
+font-size: 18px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>SmartMacro</h1>
+
+<p>Official legal policies for the SmartMacro mobile application.</p>
+
+<a href="privacy.html">Privacy Policy</a>
+<a href="terms.html">Terms of Service</a>
+
+<p>Contact: support@smartmacro.app</p>
+
+</body>
+</html>
